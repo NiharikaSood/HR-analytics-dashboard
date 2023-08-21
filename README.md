@@ -57,11 +57,6 @@ Before using the Power BI project, make sure your dataset is properly formatted.
 3. **Individual Employee View:** Track an individual employee's attendance history and performance.
 4. **Leave Analysis:** Understand leave distribution, reasons, and impact.
 
-## Screenshots
-
-![Screenshot 1](screenshots/screenshot1.png)
-![Screenshot 2](screenshots/screenshot2.png)
-
 ## Contributing
 
 Contributions are welcome! If you want to contribute to this project, follow these steps:
@@ -71,14 +66,6 @@ Contributions are welcome! If you want to contribute to this project, follow the
 3. Commit your changes: `git commit -m 'Add some feature'`.
 4. Push to the branch: `git push origin feature/your-feature-name`.
 5. Create a pull request explaining your changes.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
-## Contact
-
-For any questions or inquiries, please contact [your-email@example.com](mailto:your-email@example.com).
 
 https://github.com/NiharikaSood/HR-analytics-dashboard/assets/126588204/d4bec6be-1a70-4b74-9d34-6ad9d606d1f6
 
