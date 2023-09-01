@@ -14,10 +14,9 @@ This Power BI project focuses on analyzing employee attendance, leaves, and rela
 - [Usage](#usage)
   - [Data Preparation](#data-preparation)
   - [Report Navigation](#report-navigation)
-- [Screenshots](#screenshots)
+
 - [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
+
 
 ## Features
 
